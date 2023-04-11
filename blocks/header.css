@@ -1,5 +1,4 @@
 .header {
-    max-width: 880px;
     height: 74px;
     margin: 0 auto;
     padding: 45px 200px 0;
@@ -11,20 +10,3 @@
     margin-top: 41px;
 }
 
-@media screen and (max-width: 470px) {
-    .header {
-        width: 100%;
-        padding-top: 28px;
-        padding-left: 27px;
-    }
-
-    .header__image {
-        width: 126px;
-        height: 24px;
-    }
-
-    .header__divider {
-        margin-top: 32px;
-        width: 100%;
-    }
-}
