@@ -48,7 +48,7 @@
         height: 24px;
         background: transparent url(../images/pencil.png) center no-repeat;
         margin-bottom: 0;
-        border: solid 1px white;
+        border: 2px solid #fff;
         cursor: pointer;
         transition: all 0.3s ease-in-out;
     }
@@ -62,8 +62,7 @@
         width: 150px;
         height: 50px;
         margin-left: auto;
-        border: solid 2px white;
-        border-radius: 2px;
+        border: 2px solid #fff;
         cursor: pointer;
         transition: all 0.3s ease-in-out;
     }
