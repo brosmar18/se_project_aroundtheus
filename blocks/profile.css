@@ -16,11 +16,13 @@
         grid-template-areas:
             "title button"
             "subtitle subtitle";
-        gap: 16px 18px;
+        column-gap: 18px;
+        row-gap: 7px;
     }
 
     .profile__title {
         grid-area: title;
+        font-family: 'Inter';
         font-size: 42px;
         font-weight: 500;
         line-height: 1.15;
