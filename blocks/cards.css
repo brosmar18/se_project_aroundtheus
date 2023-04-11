@@ -9,9 +9,17 @@
 }
 
 
-@media screen and (max-width: 1100px) {
+
+@media screen and (max-width: 999px) {
     .cards {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 282px);
         gap: 17px 20px;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .cards {
+        grid-template-columns: 1fr;
+        gap: 17px;
     }
 }
