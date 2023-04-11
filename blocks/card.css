@@ -18,6 +18,7 @@
     display: flex;
     justify-content: space-around;
     margin-bottom: 25px;
+    align-items: center;
 }
 
 .card__title {
@@ -39,4 +40,3 @@
 .card__like-button:hover {
     opacity: 0.5;
 }
-
