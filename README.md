@@ -1,21 +1,27 @@
 # Project 3: Around The U.S.
 
-### Overview  
+## Description
+This project is a fully styled webpage featuring various UI components like cards, headers, footers, and profile sections. The project utilizes HTML and CSS to create a visually appealing and functional design.
 
-* Intro  
-* Figma  
-* Images  
+## Installation
+1. Clone this repository or download the ZIP file.
+2. Unzip the downloaded file (if applicable).
+3. Open the index.html file in your browser to view the webpage.
+
+## Usage
+To modify or extend the project: 
+1. Edit the `index.html` file to add or remote HTML elements.
+2. Update the corresponding CSS files to style the HTML elements. 
+
+## Technology Used  
+
+* HTML  
+* CSS  
+* FIGMA  
   
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
   
 **Figma**  
   
 * [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)  
   
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-          
-Good luck and have fun!
+
