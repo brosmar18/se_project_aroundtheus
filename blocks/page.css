@@ -12,3 +12,9 @@ body {
     font-family: Inter, Arial, Arial, Helvetica, sans-serif;
 }
 
+.page__section {
+    max-width: 880px;
+    margin: 0 auto;
+}
+
+
