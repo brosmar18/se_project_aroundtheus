@@ -18,6 +18,6 @@ This project is a fully styled webpage featuring various UI components like card
 * [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)  
 
 **Deployment**
-[Link to live project]()
+* gu[Link to live project](brosmar18.github.io/se_project_aroundtheus/)
   
 
