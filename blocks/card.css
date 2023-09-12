@@ -9,7 +9,6 @@
     color: black;
     text-align: center;
     width: 282px;
-    height: 361px;
     margin: 0 auto;
 }
 
@@ -27,7 +26,7 @@
 }
 
 .card__title {
-    font-family: 'Inter';
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 24px;
@@ -54,8 +53,3 @@
     opacity: 0.5;
 }
 
-@media screen and (max-width: 480px){
-    .card {
-        margin: 0 auto;
-        }
-}
